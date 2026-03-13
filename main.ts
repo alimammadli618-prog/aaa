@@ -1,3 +1,4 @@
+basic.showIcon(IconNames.Confused)
 basic.forever(function () {
-    basic.showIcon(IconNames.Confused)
+	
 })
